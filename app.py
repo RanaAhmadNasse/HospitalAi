@@ -27,7 +27,8 @@ heart_disease_model = pickle.load(open('heart_disease_pred.sav', 'rb'))
 
 # Nayaz2
 Breast_cancer_model = pickle.load(open('Breast_Cancer_pred.sav', 'rb'))
-
+Rana
+anemia_model=pickle.load(open('model_anemia.pkl',rb))
 # Ammar
 with open('Parkinsson_model.pkl', 'rb') as file:
     parkinsson_model = pickle.load(file)
